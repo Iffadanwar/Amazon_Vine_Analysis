@@ -23,4 +23,26 @@ We focused on the US reviews for Mobile electronic items. Amazon is a comon plac
 
 Data from Amazoon cloud data base was successfully uploaded to post gress.
 
-![diliv 1.1]("https://github.com/Iffadanwar/Amazon_Vine_Analysis/blob/main/images/diliv_1.1.png")
+![diliv 1.1](https://github.com/Iffadanwar/Amazon_Vine_Analysis/blob/main/images/diliv_1.1.png)
+
+## Results
+After Analysis of the vine comments the following results were evaluated.
+
+![diliv 2.1](https://github.com/Iffadanwar/Amazon_Vine_Analysis/blob/main/images/diliv_2.1.png)
+
+total paid reviews from vine = 4
+total paid reviews and that gave a 5 star = 1
+percent of 5 star and paid review = 25%
+
+![diliv 2.2](https://github.com/Iffadanwar/Amazon_Vine_Analysis/blob/main/images/diliv_2.2.png)
+
+total paid reviews from vine = 1064
+total paid reviews and that gave a 5 star = 527
+percent of 5 star and paid review = 49.53%
+
+## Summary
+- The problem derived from this dataset is thats the number of paid vine reviwes are extremely low, only 4. This gave a percent 5star review of only 25%
+- ~50% of non paid users gave the app 5 stars showing that there is no positivity bias for reviews in the Vine program.
+- I would additionally look at more databases to see how other product types fair.
+- Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
+
